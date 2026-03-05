@@ -1,31 +1,65 @@
-<img src="https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif" />
+## Hey, I'm Pedro Lucas 👋
 
-## Hello there!
+Paraibano, 21 years old. CS & AI undergrad at UFPB, somewhere between debugging pipelines and carrying bot lane.
 
-Oi! Tenho 18 anos, paraibano com orgulho e, nas horas em que não estou resolvendo listas de cálculo ou feedando na bot lane, eu desenvolvo algo legal aqui e ali.
-</br>
-Já quis ser ator, gamedev, abrir um restaurante, mas atualmente estou namorando a área de dados e acho que ela é pra casar.
+I've gone through phases of wanting to be an actor, game developer, and restaurateur — but data engineering and ML stuck. Turns out breaking things with code is more fun when the things you break are complex enough to be interesting.
 
-🎓 Técnico em Informática integrado ao ensino médio pela ECIT Alice Carneiro (2020-2022)
-</br>
-📚 Cursando graduação em Ciência de Dados e Inteligência Artificial pela Universidade Federal da Paraíba (2023-)
+> *"Trying to make today better than yesterday."*
 
-### 🖥️ Já brinquei com:
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
+---
 
-</br>
-</br>
+### 🎯 What I'm up to
 
-🔎 Buscando fazer com que o hoje seja sempre melhor do que o ontem
+- 🎓 **B.Sc. in Data Science & AI** — Universidade Federal da Paraíba (2023 → 2027)
+- 💼 **RLHF Contractor @ Mercor** — evaluating and training frontier AI models (Portuguese, 2026)
+- 🔭 Building towards **ML Engineer** — currently focused on Python pipelines, Docker and FastAPI
+- 🌎 Open to **remote internships** in data/ML engineering
 
-<div>
-<a href="https://github.com/pedroLSCabral">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroLSCabral&layout=compact&langs_count=7&theme=dracula"/>
+---
+
+### 🛠️ Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Data & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Engineering**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### 📌 Featured Projects
+
+> *(Updating soon — first end-to-end ML pipeline in progress)*
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔧 *Coming soon* | End-to-end ML pipeline with FastAPI deploy | Python · Docker · FastAPI |
+| 📊 *Coming soon* | Public dataset + EDA notebook | Python · Pandas · Kaggle |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedroLSCabral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroLSCabral&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroLSCabral/pedroLSCabral/output/github-contribution-grid-snake-dark.svg">
@@ -33,7 +67,9 @@ Já quis ser ator, gamedev, abrir um restaurante, mas atualmente estou namorando
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedroLSCabral/pedroLSCabral/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
 
+### 📬 Find me
 
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrolscabral)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pedroLSCabral)
