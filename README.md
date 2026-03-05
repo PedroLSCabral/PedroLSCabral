@@ -54,11 +54,6 @@ I've gone through phases of wanting to be an actor, game developer, and restaura
 
 ### 📊 GitHub Stats
 
-<div align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedroLSCabral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroLSCabral&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <br/>
 
 <picture>
