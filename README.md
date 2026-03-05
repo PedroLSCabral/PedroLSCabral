@@ -1,6 +1,6 @@
 ## Hey, I'm Pedro Lucas 👋
 
-Paraibano, 21 years old. CS & AI undergrad at UFPB, somewhere between debugging pipelines and carrying bot lane.
+Paraibano, 20 years old. CS & AI undergrad at UFPB, somewhere between debugging pipelines and carrying bot lane.
 
 I've gone through phases of wanting to be an actor, game developer, and restaurateur — but data engineering and ML stuck. Turns out breaking things with code is more fun when the things you break are complex enough to be interesting.
 
